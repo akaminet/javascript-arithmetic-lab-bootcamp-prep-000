@@ -10,7 +10,7 @@ function divide(a, b){
 function dec(a){
   return --a
 }
-function substract(a, b){
+function subtract(a, b){
   return a - b
 }
 function inc(a){
